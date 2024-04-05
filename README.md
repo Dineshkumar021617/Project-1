@@ -12,7 +12,6 @@ The Employee Retention Analytics Project harnesses the capabilities of artificia
 - Utilization of advanced data processing and visualization tools, facilitating easy integration with existing HR systems and enhancing the interpretability of analytics results.
 
 ## Requirements
-## Requirements
 * Operating System: Compatible with Windows 10, macOS, or Linux distributions for flexibility in deployment.
 * Development Environment: Python 3.x for coding and implementation of the employee retention strategies.
 * Data Analysis Libraries: Utilization of Pandas, NumPy, and Scikit-learn for data preprocessing and analysis.
@@ -26,7 +25,6 @@ The Employee Retention Analytics Project harnesses the capabilities of artificia
 
 
 ## Output
-
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1
 ![image](https://github.com/Dineshkumar021617/Project-1/assets/75234807/0d9785cc-bd85-4249-a43c-f82209b36f7e)
@@ -51,32 +49,33 @@ The impact of this project extends across various dimensions of organizational e
 
 ## Articles published / References
 [1]	BIDISHA, L. D AND MUKULESH, B. (2013) EMPLOYEE RETENTION: A REVIEW OF LITERATURE. JOURNAL OF BUSINESS AND MANAGEMENT, 14, 8-16.
+
 [2]	MITA, M., AARTI K. AND RAVNEETA, D. (2014) STUDY ON EMPLOYEE RETENTION AND COMMITMENT. INTERNATIONAL JOURNAL OF ADVANCE RESEARCH IN COMPUTER SCIENCE AND MANAGEMENT STUDIES, 2, 154-164.
+
 [3]	WORKFORCE PLANNING FOR WISCONSIN STATE GOVERNMENT (2005) EMPLOYEE RETENTION.
+
 [4]	SAMUEL, M.O. AND CHIPUNZA, C. (2009) EMPLOYEE RETENTION AND TURNOVER: USING MOTIVATIONAL VARIABLES AS A PANACEA. AFRICAN JOURNAL OF BUSINESS MANAGEMENT, 3, 410-415.
+
 [5]	SHERIDAN, J.E. (1992) ORGANIZATIONAL CULTURE AND EMPLOYEE RETENTION. ACADEMY OF MANAGEMENT JOURNAL, 35, 1036- 1056. 
+
 [6]	FITZ-ENZ, J. (1990) GETTING AND KEEPING GOOD EMPLOYEES. IN PERSONNEL, 67, 25-29.
+
 [7]	BROWN, L.K., SCHULTZ, J.R., FORSBERG, A.D., KING, G., KOCIK, S.M. AND BUTLER, R.B. (2002) PREDICTORS OF RETENTION AMONG HIV/HAEMOPHILIA HEALTH CARE PROFESSIONALS. GENERAL HOSPITAL PSYCHIATRY, 24, 48-54.
+
 [8]	WALKER, J.W. (2001) ZERO DEFECTIONS? HUMAN RESOURCE PLANNING, 24, 6-8.
-[9] naqvi, s.m.m.r. and bashir, s. (2015) it-expert retention through organizational commitment: a study of public sector information technology professionals in pakistan. applied computing and informatics, 11, 60-75. 
+
+[9] naqvi, s.m.m.r. and bashir, s. (2015) it-expert retention through organizational commitment: a study of public sector information technology professionals in pakistan. applied computing and informatics, 11, 
+60-75. 
+
 [10] ghapanchi, a.h. and aurum, a. (2011) antecedents to it personnel’s intentions to leave: a systematic literature review. journal of systems and software, 84, 238-249. 
+
 [11] allen, d.g. and shanock, l.r. (2013) perceived organizational support and embeddedness as key mechanisms connecting socialization tactics to commitment and turnover among new employees. journal of organizational behaviour, 34, 350-369
+
 [12] andrews, d.r. and wan, t.t. (2009) the importance of mental health to the experience of job strain: an evidence‐ guided approach to improve retention. journal of nursing management, 17, 340-351. 
-[13] loan‐clarke, j., arnold, j., coombs, c., hartley, r. and bosley, s. (2010) retention, turnover and return—a longitudinal study of allied health professionals in britain. human resource management journal, 20, 391-406. 
+
+[13] loan‐clarke, j., arnold, j., coombs, c., hartley, r. and bosley, s. (2010) retention, turnover and return—a longitudinal study of allied health professionals in britain. human resource management journal, 
+20, 391-406. 
+
 [14] christeen, g. (2015) retaining professional workers: what makes them stay? employee relations, 37, 102-121
-[15] hiltrop, j.m. (1999) the quest for the best: human resource practices to attract and retain talent. european management journal, 17, 422-430. 
-[1]	BIDISHA, L. D AND MUKULESH, B. (2013) EMPLOYEE RETENTION: A REVIEW OF LITERATURE. JOURNAL OF BUSINESS AND MANAGEMENT, 14, 8-16.
-[2]	MITA, M., AARTI K. AND RAVNEETA, D. (2014) STUDY ON EMPLOYEE RETENTION AND COMMITMENT. INTERNATIONAL JOURNAL OF ADVANCE RESEARCH IN COMPUTER SCIENCE AND MANAGEMENT STUDIES, 2, 154-164.
-[3]	WORKFORCE PLANNING FOR WISCONSIN STATE GOVERNMENT (2005) EMPLOYEE RETENTION.
-[4]	SAMUEL, M.O. AND CHIPUNZA, C. (2009) EMPLOYEE RETENTION AND TURNOVER: USING MOTIVATIONAL VARIABLES AS A PANACEA. AFRICAN JOURNAL OF BUSINESS MANAGEMENT, 3, 410-415.
-[5]	SHERIDAN, J.E. (1992) ORGANIZATIONAL CULTURE AND EMPLOYEE RETENTION. ACADEMY OF MANAGEMENT JOURNAL, 35, 1036- 1056. 
-[6]	FITZ-ENZ, J. (1990) GETTING AND KEEPING GOOD EMPLOYEES. IN PERSONNEL, 67, 25-29.
-[7]	BROWN, L.K., SCHULTZ, J.R., FORSBERG, A.D., KING, G., KOCIK, S.M. AND BUTLER, R.B. (2002) PREDICTORS OF RETENTION AMONG HIV/HAEMOPHILIA HEALTH CARE PROFESSIONALS. GENERAL HOSPITAL PSYCHIATRY, 24, 48-54.
-[8]	WALKER, J.W. (2001) ZERO DEFECTIONS? HUMAN RESOURCE PLANNING, 24, 6-8.
-[9] naqvi, s.m.m.r. and bashir, s. (2015) it-expert retention through organizational commitment: a study of public sector information technology professionals in pakistan. applied computing and informatics, 11, 60-75. 
-[10] ghapanchi, a.h. and aurum, a. (2011) antecedents to it personnel’s intentions to leave: a systematic literature review. journal of systems and software, 84, 238-249. 
-[11] allen, d.g. and shanock, l.r. (2013) perceived organizational support and embeddedness as key mechanisms connecting socialization tactics to commitment and turnover among new employees. journal of organizational behaviour, 34, 350-369
-[12] andrews, d.r. and wan, t.t. (2009) the importance of mental health to the experience of job strain: an evidence‐ guided approach to improve retention. journal of nursing management, 17, 340-351. 
-[13] loan‐clarke, j., arnold, j., coombs, c., hartley, r. and bosley, s. (2010) retention, turnover and return—a longitudinal study of allied health professionals in britain. human resource management journal, 20, 391-406. 
-[14] christeen, g. (2015) retaining professional workers: what makes them stay? employee relations, 37, 102-121
+
 [15] hiltrop, j.m. (1999) the quest for the best: human resource practices to attract and retain talent. european management journal, 17, 422-430. 
